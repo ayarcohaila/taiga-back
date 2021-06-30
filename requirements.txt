@@ -1,6 +1,6 @@
 #djangorestframework==2.3.13    # It's not necessary since Taiga 1.7
 CairoSVG==2.0.3
-Django==1.11.2
+Django==2.2.24
 Markdown==2.6.8
 Pillow==4.1.1
 PyJWT==1.5.0
