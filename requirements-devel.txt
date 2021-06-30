@@ -4,7 +4,7 @@ coverage==4.4.1
 coveralls==1.1
 django-slowdown==0.0.1
 factory_boy==2.8.1
-py==1.4.34
+py==1.10.0
 pytest-django==3.1.2
 pytest-pythonpath==0.7.1
 pytest==3.1.1
