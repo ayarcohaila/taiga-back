@@ -9,7 +9,7 @@ amqp==2.1.4
 asana==0.6.5
 bleach==2.0.0
 celery==4.0.2
-cryptography==1.9
+cryptography==41.0.2
 cssutils==1.0.2
 diff-match-patch==20121119
 django-ipware==1.1.6
