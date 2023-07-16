@@ -37,7 +37,7 @@ pytz==2017.2
 raven==6.1.0
 redis==2.10.5
 requests-oauthlib==0.8.0
-requests==2.17.3
+requests==2.31.0
 serpy==0.1.1
 six==1.10.0
 webcolors==1.7
